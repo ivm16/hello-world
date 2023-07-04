@@ -10,3 +10,6 @@ una breve descripción
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text | 
+
+
+###MAnejo de cambios
